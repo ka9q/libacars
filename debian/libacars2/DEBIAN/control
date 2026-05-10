@@ -1,0 +1,13 @@
+Package: libacars2
+Source: libacars
+Version: 2.2.1-1
+Architecture: amd64
+Maintainer: Phil Karn <karn@ka9q.net>
+Installed-Size: 724
+Depends: libc6 (>= 2.14), libjansson4 (>= 2.14), libxml2 (>= 2.7.4), zlib1g (>= 1:1.1.4), libzlib-dev, libxml2-dev, libjansson-dev
+Section: libs
+Priority: optional
+Multi-Arch: same
+Homepage: <insert the upstream URL, if relevant>
+Description: Library for decoding ACARS messages
+ <Insert long description, indented with spaces.>

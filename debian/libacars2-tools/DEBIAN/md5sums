@@ -1,0 +1,6 @@
+3d264f011e06e76f736fd0650acac082  usr/bin/adsc_get_position
+fc27b9f20d80e68e981f4391a43f2a25  usr/bin/cpdlc_get_position
+153156a56806c265d5609caffc13a716  usr/bin/decode_acars_apps
+3e68adf3af43b833c1b18fab3e46da83  usr/share/doc/libacars2-tools/changelog.Debian.gz
+f2c235afbca92fbfbf0443c592652903  usr/share/doc/libacars2-tools/changelog.gz
+df892e84497b38ec843f549f9283e457  usr/share/doc/libacars2-tools/copyright

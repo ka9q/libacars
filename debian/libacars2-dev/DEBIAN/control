@@ -1,0 +1,13 @@
+Package: libacars2-dev
+Source: libacars
+Version: 2.2.1-1
+Architecture: amd64
+Maintainer: Phil Karn <karn@ka9q.net>
+Installed-Size: 577
+Depends: libacars2 (= 2.2.1-1)
+Section: libdevel
+Priority: optional
+Multi-Arch: same
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <Insert long description, indented with spaces.>
