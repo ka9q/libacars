@@ -25,7 +25,7 @@ Package: libacars2
 Architecture: any
 Multi-Arch: same
 Depends: ${shlibs:Depends}, ${misc:Depends},
- libzlib-dev, libxml2-dev, libjansson-dev
+ zlib1g-dev, libxml2-dev, libjansson-dev
 Description: Library for decoding ACARS messages
  <Insert long description, indented with spaces.>
 
@@ -33,6 +33,6 @@ Package: libacars2-tools
 Architecture: any
 Multi-Arch: same
 Depends: ${shlibs:Depends}, ${misc:Depends},
- libzlib-dev, libxml2-dev, libjansson-dev
+ zlib1g-dev, libxml2-dev, libjansson-dev
 Description: Library for decoding ACARS messages
  <Insert long description, indented with spaces.>
