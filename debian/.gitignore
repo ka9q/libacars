@@ -1,0 +1,8 @@
+*.substvars
+.debhelper/
+.debhelper/*
+debhelper-build-stamp
+files
+tmp/
+libacars2-tools/*
+libacars2/*

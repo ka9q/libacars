@@ -4,7 +4,7 @@ Version: 2.2.1-1
 Architecture: amd64
 Maintainer: Phil Karn <karn@ka9q.net>
 Installed-Size: 59
-Depends: libacars2 (>= 2.2.1), libc6 (>= 2.34), libzlib-dev, libxml2-dev, libjansson-dev
+Depends: libacars2 (>= 2.2.1), libc6 (>= 2.34), zlib1g-dev, libxml2-dev, libjansson-dev
 Section: libs
 Priority: optional
 Multi-Arch: same
