@@ -1,3 +1,0 @@
-shlibs:Depends=libacars2 (>= 2.2.1), libc6 (>= 2.34)
-misc:Depends=
-misc:Pre-Depends=
