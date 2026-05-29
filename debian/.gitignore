@@ -1,8 +1,8 @@
+*~undo-tree~
 *.substvars
-.debhelper/
-.debhelper/*
+.debhelper
 debhelper-build-stamp
 files
-tmp/
-libacars2-tools/*
-libacars2/*
+tmp
+libacars2-tools
+libacars2
