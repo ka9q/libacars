@@ -1,0 +1,9 @@
+*~undo-tree~
+*.substvars
+.debhelper
+debhelper-build-stamp
+files
+tmp
+libacars2-tools
+libacars2
+libacars2-dev

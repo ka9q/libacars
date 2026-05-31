@@ -1,0 +1,36 @@
+Source: libacars
+Section: libs
+Priority: optional
+Maintainer: Phil Karn <karn@ka9q.net>
+Rules-Requires-Root: no
+Build-Depends:
+ debhelper-compat (= 13),
+ cmake, zlib1g-dev, libxml2-dev, libjansson-dev
+Standards-Version: 4.7.2
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Browser: https://salsa.debian.org/debian/libacars
+Vcs-Git: https://github.com/szpajder/libacars.git
+
+Package: libacars2-dev
+Section: libdevel
+Architecture: any
+Multi-Arch: same
+Depends:
+ libacars2 (= ${binary:Version}),
+ ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <Insert long description, indented with spaces.>
+
+Package: libacars2
+Architecture: any
+Multi-Arch: same
+Depends: ${shlibs:Depends}, ${misc:Depends},
+Description: Library for decoding ACARS messages
+ Fork of github.com/szpajder/libacars.git
+
+Package: libacars2-tools
+Architecture: any
+Multi-Arch: same
+Depends: ${shlibs:Depends}, ${misc:Depends},
+Description: Library for decoding ACARS messages
+ Fork of user tools from github.com/szpajder/libacars.git

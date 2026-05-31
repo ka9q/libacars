@@ -8,3 +8,4 @@ test
 compile_commands.json
 .clangd
 .cache
+obj-x86_64-linux-gnu

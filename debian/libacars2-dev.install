@@ -1,0 +1,6 @@
+usr/include/*
+usr/lib/*/lib*.so
+usr/lib/*/pkgconfig/*
+usr/include/libacars-2/libacars/*
+usr/share/doc/libacars-2/*
+
